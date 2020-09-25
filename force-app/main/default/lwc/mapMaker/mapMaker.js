@@ -7,7 +7,7 @@ export default class MapMaker extends LightningElement {
         latitude:  this.Lat,
         longitude: this.Long
       };    
-    
+          
     get Lat() {  
         return this.Latitude;  
       }  
